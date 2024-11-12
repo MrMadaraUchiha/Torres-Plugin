@@ -1,0 +1,7 @@
+name: Torres
+version: 1.0-SNAPSHOT
+authors: [ManoComandante]
+main: com.github.manocomandante.torres.TorresPlugin
+depend: [PlotSquared, Vault]
+commands:
+  givetorre:

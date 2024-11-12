@@ -1,0 +1,26 @@
+
+#command /givetorre perm: torres.admin
+config:
+  TorreLv1:
+    id: 81
+    data: 0
+    head-texture: ''
+    andares: 3
+    display-name: '&a&lTORRE DE CACTUS LvL.1'
+    lore:
+      - '&fContrua uma torre'
+      - '&fde &73 &fandares instantaneamente!'
+      - ''
+      - '&aCloque isto em seu terreno.'
+
+  TorreLv2:
+    id: 144
+    data: 0
+    head-texture: 'http://textures.minecraft.net/texture/904f1a55943c594e7119e884c5da2a2bca8e7e6516a0649aa7e55658e0e9'
+    andares: 5
+    display-name: '&a&lTORRE DE CACTUS LvL.2'
+    lore:
+      - '&fContrua uma torre'
+      - '&fde &75 &fandares instantaneamente!'
+      - ''
+      - '&aCloque isto em seu terreno.'
